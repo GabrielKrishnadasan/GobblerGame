@@ -6,3 +6,4 @@ Peripherals:
 - 4-way Nav Switch
 - RGB LED
 - Timer
+- LCD display
